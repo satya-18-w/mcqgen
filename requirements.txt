@@ -1,7 +1,8 @@
 openai
-langchain
+langchain==0.3.13
 streamlit
 python-dotenv
 PyPDF2
+langchain-ai21
 
 -e .
